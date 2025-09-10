@@ -1,0 +1,25 @@
+*{
+ margin: 0%;
+ padding: 0;
+}
+html{
+ scroll-behavior: smooth;
+}
+.content{
+ background-color: #ccc;
+ min-height: 700px;
+}
+.menu{
+ position: sticky;
+ width: 20%;
+ top: 20%;
+ margin-left: 10%;
+ margin-bottom: 10%;
+}
+.main{
+    margin-left: 20%;
+}
+.parallax{
+ min-height: 300px;
+ background-image: url(https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/d1208190c20ae9c.png);
+ background-attachment: fixed;}
